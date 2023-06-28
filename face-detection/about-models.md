@@ -18,6 +18,7 @@ The information provided in the Model Zoo is for general informational purposes 
 
 
 * [blazefaces-640.onnx](./blazefaces-640.onnx) - Original https://github.com/zineos/blazeface/
+* [blazefaces-320.onnx](./blazefaces-320.onnx) - Original https://github.com/zineos/blazeface/
   ```bibtex
   @article{bazarevsky2019blazeface,
   title={Blazeface: Sub-millisecond neural face detection on mobile gpus},
