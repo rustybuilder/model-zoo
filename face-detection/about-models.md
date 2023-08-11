@@ -17,12 +17,25 @@ No Legal Advice:
 The information provided in the Model Zoo is for general informational purposes only and should not be construed as legal advice. This repository is not a law firm and does not provide legal advice or representation. If you have any legal concerns or questions regarding the Models, we recommend consulting with a qualified attorney.
 
 
-* [blazefaces-640.onnx](./blazefaces-640.onnx) - Original https://github.com/zineos/blazeface/
+* [blazefaces-320.onnx](./blazefaces-320.onnx) [blazefaces-640.onnx](./blazefaces-640.onnx) - Original https://github.com/zineos/blazeface/
   ```bibtex
   @article{bazarevsky2019blazeface,
   title={Blazeface: Sub-millisecond neural face detection on mobile gpus},
   author={Bazarevsky, Valentin and Kartynnik, Yury and Vakunov, Andrey and Raveendran, Karthik and Grundmann, Matthias},
   journal={arXiv preprint arXiv:1907.05047},
   year={2019}
+  }
+  ```
+* [mtcnn-pnet.onnx](./mtcnn-pnet.onnx), [mtcnn-rnet.onnx](./mtcnn-rnet.onnx), [mtcnn-onet.onnx](./mtcnn-onet.onnx) - Original https://github.com/timesler/facenet-pytorch
+  ```bibtex
+  @article{zhang2016joint,
+  title={Joint face detection and alignment using multitask cascaded convolutional networks},
+  author={Zhang, Kaipeng and Zhang, Zhanpeng and Li, Zhifeng and Qiao, Yu},
+  journal={IEEE signal processing letters},
+  volume={23},
+  number={10},
+  pages={1499--1503},
+  year={2016},
+  publisher={IEEE}
   }
   ```

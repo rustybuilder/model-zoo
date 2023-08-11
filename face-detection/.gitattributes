@@ -1,1 +1,5 @@
 blaceface-640.onnx filter=lfs diff=lfs merge=lfs -text
+blazeface-320.onnx filter=lfs diff=lfs merge=lfs -text
+mtcnn-onet.onnx filter=lfs diff=lfs merge=lfs -text
+mtcnn-pnet.onnx filter=lfs diff=lfs merge=lfs -text
+mtcnn-rnet.onnx filter=lfs diff=lfs merge=lfs -text
